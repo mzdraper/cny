@@ -120,7 +120,7 @@ var config = {
             id: '6',
             title: 'Sarah He',
             image: 'images/sarah-he.jpeg',
-            description: 'Sarah He works on our People Operations team in the Shanghai office. Sarah lives in Shanghai and travels to Qingdao, Shandong to celebrate Spring Festival with her family.',
+            description: 'Sarah He works on our People Operations team in the Shanghai office. Sarah lives in Shanghai and travels to Huzhou, Zhejiang to celebrate Spring Festival with her family.',
             location: {
                 center: [121.45359, 31.22813],
                 zoom: 8,
